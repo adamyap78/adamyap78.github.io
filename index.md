@@ -2,6 +2,71 @@
 title: Adam Yap
 layout: default
 ---
+
+
+<style>
+  body {
+    font-family: 'Crimson Pro', 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    color: #2c3e50;
+    background: #fdfbf7;
+    line-height: 1.65;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  
+  h1, h2, h3 {
+    color: #1a252f;
+    font-weight: 600;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 3px solid #d4a574;
+    padding-bottom: 0.5rem;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+    margin-top: 2rem;
+    color: #6b4423;
+  }
+  
+  h3 {
+    font-size: 1.3rem;
+    color: #8b6f47;
+  }
+  
+  a {
+    color: #b8860b;
+    text-decoration: none;
+    border-bottom: 1px solid #d4a574;
+  }
+  
+  a:hover {
+    color: #8b6914;
+    border-bottom-color: #b8860b;
+  }
+  
+  code {
+    background: #f4f1ea;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.9em;
+    color: #6b4423;
+  }
+  
+  blockquote {
+    border-left: 4px solid #d4a574;
+    margin: 1.5rem 0;
+    padding-left: 1.5rem;
+    color: #5a6c7d;
+    font-style: italic;
+  }
+</style>
+
+
 This is the professional online home for Adam Yap. This may be useful if you're interested in working with Adam in some way.
 
 ## About Me
