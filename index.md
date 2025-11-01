@@ -3,27 +3,27 @@ title: Adam Yap
 layout: default
 ---
 
-I'm a founder (Healthengine, GPsite, ADP, Caloriestory, Neospace)  who loves helping founders. 
+I'm a founder (Healthengine, GPsite, ADP, Caloriestory, Neospace) who loves helping founders. 
 
-I love the messy, chaotic, stressful, rewarding, intense and  profound experience of being a startup tech founder. I love working with smart people on interesting problems. Adding disproportionate value is very rewarding. Helping people makes me happy. So does winning. 
+I love the messy, chaotic, stressful, rewarding, intense, and profound experience of being a startup tech founder. I love working with smart people on interesting problems. Adding disproportionate value is very rewarding. Helping people makes me happy. So does winning. 
 
 I usually end up working in these areas:
 
-- Product, Willingness to Pay and MVP
+- Product Development, Willingness to Pay and Minimum Viable Product (MVP)
 - Pricing and Go-To-Market Strategy for digital startups
-- AI and Online Tech
-- Raising money for startups
-- Founder mindset and wellness
+- AI and Digital Tech
+- Capital Raising for Startups
+- Founder Mindset and Wellness
 
-FWIW I have degrees in Law, Accounting and Finance. I've been coding since I was 6.
+FWIW, I have degrees in Law, Accounting and Finance. I've been coding since I was 6.
 
 I live in Perth, Western Australia.
 
-I'm always happy to meet founders in person. If you're a Perth-based digital founder, <a href="mailto:hello@adamyap.com">drop me a line</a> if you want to talk about your startup.
+If you're a Perth-based digital founder and want to talk about your startup, <a href="mailto:hello@adamyap.com">drop me a line</a>.
 
 ## Recommended Reading
 
-I often get asked, "what books or articles do you recommend?". This is the shortlist. I don't agree with everything in all of these, but I have found great value in all of them.
+I often get asked, "what books or articles do you recommend?" This is the shortlist. I don't agree with everything in each of these, but I've found value in all of them.
 
 - [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses](https://www.amazon.com.au/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_3?crid=37N3P10N38115&dib=eyJ2IjoiMSJ9.6tD306tQX7WJWdAWBf5yVYTeCUF5nBBSopnt1NodWVvHazhhKFds33zU_hS8aM-lGR-K13YTpzvttl3eUofzVuU3ZVw_3dnRop5oHrzTNL3mylhxOg9A8dJiSHRvZoPVqqsnM4gU6ClrbDil021tfH3yc6-eAyf5NPajzkJvEV76ArHgitl_azk5LSAz4-O3nUAGNjPq8g1YZptmVcft0TMVp3TwSQaU2toNeOI1cRk.YGeokrpKJ_Nncf4DKiYwugouwlSPwVrOK47-NAqLumY&dib_tag=se&keywords=lean+startup&qid=1761964683&s=books&sprefix=lean+start%2Cstripbooks%2C277&sr=1-3)  - Eric Ries
 
@@ -71,7 +71,7 @@ These are the tools I use to help me be productive:
 
 ### Software
 
-- Markdown
+- Markdown and Obsidian
 - ChatGPT and Claude
 - Cursor and Claude Code
 - <span class="mono">The Command Line</span>
