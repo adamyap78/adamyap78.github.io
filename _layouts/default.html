@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap');
+    
+    body {
+      font-family: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      color: #2d2d2d;
+      background: #fafafa;
+      line-height: 1.7;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    
+    h1, h2, h3 {
+      color: #1a1a1a;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+    
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      padding-bottom: 0.5rem;
+    }
+    
+    h2 {
+      font-size: 1.75rem;
+      margin-top: 2rem;
+      color: #1e4d2b;
+    }
+    
+    h3 {
+      font-size: 1.3rem;
+      color: #2d5a3d;
+    }
+    
+    a {
+      color: #1e4d2b;
+      text-decoration: none;
+      border-bottom: 1px solid #4a7c59;
+      transition: all 0.2s ease;
+    }
+    
+    a:hover {
+      color: #2d5a3d;
+      border-bottom-color: #1e4d2b;
+    }
+    
+    code {
+      background: #e8e8e8;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.9em;
+      color: #2d5a3d;
+      font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', monospace;
+    }
+    
+    blockquote {
+      border-left: 4px solid #2d5a3d;
+      margin: 1.5rem 0;
+      padding-left: 1.5rem;
+      color: #4a4a4a;
+      font-style: normal;
+    }
+    
+    ul, ol {
+      color: #333333;
+    }
+    
+    .mono {
+      font-family: 'JetBrains Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', monospace;
+      font-weight: 400;
+      letter-spacing: 0;
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
+
