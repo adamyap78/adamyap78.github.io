@@ -1,77 +1,98 @@
 ---
 title: Adam Yap
-layout: default
+
 ---
 
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap');
+  
   body {
-    font-family: 'Crimson Pro', 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
-    color: #2c3e50;
-    background: #fdfbf7;
-    line-height: 1.65;
+    font-family: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    color: #2d2d2d;
+    background: #fafafa;
+    line-height: 1.7;
     max-width: 720px;
     margin: 0 auto;
     padding: 2rem 1.5rem;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
   
   h1, h2, h3 {
-    color: #1a252f;
+    color: #1a1a1a;
     font-weight: 600;
+    letter-spacing: -0.02em;
   }
   
   h1 {
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
-    border-bottom: 3px solid #d4a574;
     padding-bottom: 0.5rem;
   }
   
   h2 {
     font-size: 1.75rem;
     margin-top: 2rem;
-    color: #6b4423;
+    color: #1e4d2b;
   }
   
   h3 {
     font-size: 1.3rem;
-    color: #8b6f47;
+    color: #2d5a3d;
   }
   
   a {
-    color: #b8860b;
+    color: #1e4d2b;
     text-decoration: none;
-    border-bottom: 1px solid #d4a574;
+    border-bottom: 1px solid #4a7c59;
+    transition: all 0.2s ease;
   }
   
   a:hover {
-    color: #8b6914;
-    border-bottom-color: #b8860b;
+    color: #2d5a3d;
+    border-bottom-color: #1e4d2b;
   }
   
   code {
-    background: #f4f1ea;
+    background: #e8e8e8;
     padding: 0.2rem 0.4rem;
-    border-radius: 3px;
+    border-radius: 4px;
     font-size: 0.9em;
-    color: #6b4423;
+    color: #2d5a3d;
+    font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', monospace;
   }
   
   blockquote {
-    border-left: 4px solid #d4a574;
+    border-left: 4px solid #2d5a3d;
     margin: 1.5rem 0;
     padding-left: 1.5rem;
-    color: #5a6c7d;
-    font-style: italic;
+    color: #4a4a4a;
+    font-style: normal;
+  }
+  
+  ul, ol {
+    color: #333333;
+  }
+  
+  .mono {
+    font-family: 'JetBrains Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', monospace;
+    font-weight: 400;
+    letter-spacing: 0;
   }
 </style>
 
+# Adam Yap
 
 This is the professional online home for Adam Yap. This may be useful if you're interested in working with Adam in some way.
 
 ## About Me
 
-I'm a Founder (Healthengine, GPsite, ADP, Caloriestory, Neospace)  who loves helping Founders. I love the messy, chaotic, stressful, rewarding, intense and  profound experience of being a Startup Founder. I love working with great people on interesting problems. Adding disproportionate value is very rewarding. Helping people makes me happy. So does winning. 
+I'm a Founder (Healthengine, GPsite, ADP, Caloriestory, Neospace)  who loves helping Founders. 
+
+I love the messy, chaotic, stressful, rewarding, intense and  profound experience of being a Startup Founder. I love working with great people on interesting problems. Adding disproportionate value is very rewarding. Helping people makes me happy. So does winning. 
 
 I usually end up working in these areas:
 
@@ -83,9 +104,11 @@ I usually end up working in these areas:
 
 FWIW I have degrees in Law, Accounting and Finance. I've been coding since I was 6.
 
+I live in Perth, Western Australia.
+
 ## Stuff I've Read that I Recommend
 
-I often get asked, "what books or articles do you recommend?". This is the shortlist. I don't agree with everything in all of these, but they're reading.
+I often get asked, "what books or articles do you recommend?". This is the shortlist. I don't agree with everything in all of these, but I have found great value in all of them.
 
 - [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses](https://www.amazon.com.au/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_3?crid=37N3P10N38115&dib=eyJ2IjoiMSJ9.6tD306tQX7WJWdAWBf5yVYTeCUF5nBBSopnt1NodWVvHazhhKFds33zU_hS8aM-lGR-K13YTpzvttl3eUofzVuU3ZVw_3dnRop5oHrzTNL3mylhxOg9A8dJiSHRvZoPVqqsnM4gU6ClrbDil021tfH3yc6-eAyf5NPajzkJvEV76ArHgitl_azk5LSAz4-O3nUAGNjPq8g1YZptmVcft0TMVp3TwSQaU2toNeOI1cRk.YGeokrpKJ_Nncf4DKiYwugouwlSPwVrOK47-NAqLumY&dib_tag=se&keywords=lean+startup&qid=1761964683&s=books&sprefix=lean+start%2Cstripbooks%2C277&sr=1-3)  - Eric Ries
 - [Monetizing Innovation: How Smart Companies Design the Product Around the Price](https://www.amazon.com.au/Monetizing-Innovation-Companies-Design-Product/dp/1119240867) by Madhavan Ramanujam
@@ -111,7 +134,7 @@ These are the tools I use to help my productivity, in no particular order:
 - Walking Meetings
 - Whiteboards
 - ChatGPT and Claude
-- The Command Line
+- <span class="mono">The Command Line</span>
 - Very Short Meetings
 - Phone Calls
 - Not Multi-tasking
