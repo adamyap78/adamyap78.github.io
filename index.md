@@ -3,9 +3,9 @@ title: Adam Yap
 layout: default
 ---
 
-I'm a Founder (Healthengine, GPsite, ADP, Caloriestory, Neospace)  who loves helping Founders. 
+I'm a founder (Healthengine, GPsite, ADP, Caloriestory, Neospace)  who loves helping founders. 
 
-I love the messy, chaotic, stressful, rewarding, intense and  profound experience of being a Startup Founder. I love working with great people on interesting problems. Adding disproportionate value is very rewarding. Helping people makes me happy. So does winning. 
+I love the messy, chaotic, stressful, rewarding, intense and  profound experience of being a startup tech founder. I love working with smart people on interesting problems. Adding disproportionate value is very rewarding. Helping people makes me happy. So does winning. 
 
 I usually end up working in these areas:
 
@@ -45,23 +45,23 @@ These are the tools I use to help my productivity, in no particular order:
 
 - Macbook Air
 - iPhone
+- Pen and Paper
+- Whiteboards
+- Unplanned Phone Calls
 - Markdown
 - The Rule of Threes
 - Zen Meditation and Mindfulness
 - Periodic Todo Lists (Daily, Weekly and Monthly)
-- Pen and Paper
-- Whatsapp
 - Standups and Weekly Check-ins
 - Walking Meetings
-- Whiteboards
-- ChatGPT and Claude
-- <span class="mono">The Command Line</span>
 - Very Short Meetings
-- Phone Calls
 - Not Multi-tasking
 - No Meeting Days
-- Laravel
 - Time Bound Productivity
 - Active Listening
+- ChatGPT and Claude
+- Whatsapp
+- <span class="mono">The Command Line</span>
+- Laravel
 
 Last reviewed: November 2025
