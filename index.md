@@ -3,12 +3,6 @@ title: Adam Yap
 layout: default
 ---
 
-# Adam Yap
-
-This is the professional online home for Adam Yap. This may be useful if you're interested in working with Adam in some way.
-
-## About Me
-
 I'm a Founder (Healthengine, GPsite, ADP, Caloriestory, Neospace)  who loves helping Founders. 
 
 I love the messy, chaotic, stressful, rewarding, intense and  profound experience of being a Startup Founder. I love working with great people on interesting problems. Adding disproportionate value is very rewarding. Helping people makes me happy. So does winning. 
