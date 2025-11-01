@@ -41,26 +41,39 @@ I often get asked, "what books or articles do you recommend?". This is the short
 
 ## Toolkit or Stack
 
-These are the tools I use to help my productivity, in no particular order:
+These are the tools I use to help me be productive:
+
+### Physical Tools
 
 - Macbook Air
 - iPhone
 - Pen and Paper
 - Whiteboards
-- Unplanned Phone Calls
-- Markdown
+
+### Mental Tools
+
 - The Rule of Threes
 - Zen Meditation and Mindfulness
-- Periodic Todo Lists (Daily, Weekly and Monthly)
-- Standups and Weekly Check-ins
+
+### Meetings
+
+- Phone Calls instead of Meetings
 - Walking Meetings
 - Very Short Meetings
+- Meeting-Free Days
+
+### Project Management
+
+- Standups and Weekly Check-ins
+- Time Bound Work
 - Not Multi-tasking
-- No Meeting Days
-- Time Bound Productivity
-- Active Listening
+- Periodic Todo Lists (Daily, Weekly and Monthly)
+
+### Software
+
+- Markdown
 - ChatGPT and Claude
-- Whatsapp
+- Cursor and Claude Code
 - <span class="mono">The Command Line</span>
 - Laravel
 
