@@ -9,7 +9,7 @@ I love the messy, chaotic, stressful, rewarding, intense, and profound experienc
 
 I usually end up working in these areas:
 
-- Product Development, Willingness to Pay and Minimum Viable Product (MVP)
+- Product Development, Willingness to Pay and <a href="/articles/mvp/">Minimum Viable Product</a> (MVP)
 - Pricing and Go-To-Market Strategy for digital startups
 - AI and Digital Tech
 - Capital Raising for Startups
@@ -65,7 +65,7 @@ These are the tools I use to help me be productive:
 ### Project Management
 
 - Standups and Weekly Check-ins
-- Time Bound Work
+- Time Bound Work instead of Scope Bound Work
 - Not Multi-tasking
 - Periodic Todo Lists (Daily, Weekly and Monthly)
 

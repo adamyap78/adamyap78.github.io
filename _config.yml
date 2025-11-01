@@ -3,13 +3,23 @@ description: The professional online home for Adam Yap
 
 # Jekyll settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
+plugins: []
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /articles/:name/
 
 # Default layout
 defaults:
   - scope:
       path: ""
+    values:
+      layout: default
+  - scope:
+      path: "_articles"
+      type: "articles"
     values:
       layout: default
 
