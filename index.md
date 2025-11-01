@@ -1,6 +1,5 @@
-# Intro
-
 This is the professional online home for Adam Yap. This may be useful if you're interested in working with Adam in some way.
+
 ## About Me
 
 I'm a Founder (Healthengine, GPsite, ADP, Caloriestory, Neospace)  who loves helping Founders. I love the messy, chaotic, stressful, rewarding, intense and  profound experience of being a Startup Founder. I love working with great people on interesting problems. Adding disproportionate value is very rewarding. Helping people makes me happy. So does winning. 
@@ -14,13 +13,6 @@ I usually end up working in these areas:
 - Founder mindset and wellness
 
 FWIW I have degrees in Law, Accounting and Finance. I've been coding since I was 6.
-## Writing
-
-- Should be perennial or close to perennial
-- Can be very few. Probably a minimum of 3. Deep, deep principles.
-- The poison of "Must Have", "Should Have", "Nice to Have"
-- For Startups, sizing hurts more than it helps.
-- Technical Debt
 
 ## Stuff I've Read that I Recommend
 
@@ -33,18 +25,6 @@ I often get asked, "what books or articles do you recommend?". This is the short
 - [Positioning - The Battle for your Mind](https://www.amazon.com.au/Positioning-Battle-Your-Mind-Paperback/dp/0071373586) by Al Ries and Jack Trout
 - [Founder Mode](https://paulgraham.com/foundermode.html) by Paul Graham
 - [Good Product Manager, Bad Product Manager](https://a16z.com/good-product-manager-bad-product-manager/) by Ben Horowitz
-
-## Strengths and Weaknesses
-
-- Impatience
-- Needing to regularly Zoom In and Zoom out.
-
-## Things I Believe In.
-
-- Iteration speed wins in Startup - including the technical debt and rework that occurs because of this
-- Small Teams beat Big Teams - including the lack of "hours" and capacity and reduced diversity in views.
-- In-Person team work is a superpower - even though it is an inconveniences many, limits access to talent and often increases interruptions
-- First Principles Thinking is worth it- even though it takes time and ends up opening stuff that doesn't need reopening
 
 ## Toolkit or Stack
 
