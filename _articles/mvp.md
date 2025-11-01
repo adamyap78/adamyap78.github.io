@@ -13,4 +13,4 @@ If you don't know what an MVP is, stop reading this - and read Eric's article. I
 
 If you don't have the time to read and understand this, you don't have the time to build an MVP.
 
-While you're at it, read <a href="https://www.amazon.com.au/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_3?crid=37N3P10N38115&dib=eyJ2IjoiMSJ9.6tD306tQX7WJWdAWBf5yVYTeCUF5nBBSopnt1NodWVvHazhhKFds33zU_hS8aM-lGR-K13YTpzvttl3eUofzVuU3ZVw_3dnRop5oHrzTNL3mylhxOg9A8dJiSHRvZoPVqqsnM4gU6ClrbDil021tfH3yc6-eAyf5NPajzkJvEV76ArHgitl_azk5LSAz4-O3nUAGNjPq8g1YZptmVcft0TMVp3TwSQaU2toNeOI1cRk.YGeokrpKJ_Nncf4DKiYwugouwlSPwVrOK47-NAqLumY&dib_tag=se&keywords=lean+startup&qid=1761964683&s=books&sprefix=lean+start%2Cstripbooks%2C277&sr=1-3">The Lean Startup</a>. Building a startup in Perth but can't afford a copy? Get in touch, and I'll give you one.
+While you're at it, read <a href="https://www.amazon.com.au/Lean-Startup-Eric-Ries/dp/0307887898">The Lean Startup</a>. Building a startup in Perth but can't afford a copy? Get in touch, and I'll give you one.
