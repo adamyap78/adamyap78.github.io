@@ -1,3 +1,7 @@
+---
+title: Adam Yap
+layout: default
+---
 This is the professional online home for Adam Yap. This may be useful if you're interested in working with Adam in some way.
 
 ## About Me
