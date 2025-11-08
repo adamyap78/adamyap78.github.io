@@ -91,7 +91,7 @@ These are the tools I use to help me be productive:
 
 - [Markdown](https://daringfireball.net/projects/markdown/) and [Obsidian](https://obsidian.md/)
 - [ChatGPT](https://chat.openai.com/) and [Claude](https://claude.ai/)
-- [Cursor](https://cursor.sh/) and Claude Code
+- [Cursor](https://cursor.sh/) and [Claude Code](https://www.claude.com/product/claude-code)
 - <span class="mono">[ZSH](https://www.zsh.org/)</span>
 - [Laravel](https://laravel.com/)
 
